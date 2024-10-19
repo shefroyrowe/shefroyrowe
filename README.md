@@ -1,2 +1,2 @@
-- 👋 Starting over;
-- console.log('New begining');
+- 👋 Started over;
+- console.log('New beginings');
